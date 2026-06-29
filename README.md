@@ -95,10 +95,12 @@ A secure file storage and sharing web app with a FastAPI backend and React (Vite
 | Secure File Storage & Sharing | Encrypted file system with integrity verification | FastAPI, React, AES-256-GCM, HMAC-SHA256 | Complete | [Repo](https://github.com/error404en/secure_file) |
 | LitLens AI | AI research workspace, Clean Architecture | Next.js 15, React 19, Zustand, Zod | In progress — private | Coming soon |
 
-## GitHub Analytics
+### GitHub Stats
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=error404en&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="55%"/>
+![Followers](https://img.shields.io/github/followers/error404en?style=for-the-badge&color=1f6feb&logo=github&logoColor=white&label=Followers)
+![Stars](https://img.shields.io/github/stars/error404en?style=for-the-badge&color=22c55e&logo=github&logoColor=white&label=Stars)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=blueviolet&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ferror404en)
 
 ---
 
