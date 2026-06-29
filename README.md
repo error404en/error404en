@@ -97,14 +97,15 @@ A secure file storage and sharing web app with a FastAPI backend and React (Vite
 
 ## GitHub Analytics
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=error404en&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="55%"/>
+
+---
+
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=error404en&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=error404en&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=error404en&theme=tokyonight&hide_border=true" width="60%" />
-
+Always open to a conversation about backend engineering, security, or off-campus opportunities — reach out anytime.
 </div>
+
 
 ## What I Like Building
 
