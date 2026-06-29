@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:1F6FEB,100:22C55E&text=Shreyansh%20Bhadani&fontColor=FFFFFF&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20Development&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24&text=Shreyansh%20Bhadani&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Backend%20and%20Full-Stack%20Software%20Engineer&descAlignY=58&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+secure%2C+production-grade+backend+systems;FastAPI+%2B+React+%2B+Clean+Architecture;Exploring+multimodal+AI+%26+real-time+systems;Open+to+SDE+%2F+Backend+Internships+%26+Full-Time+Roles" />
 
