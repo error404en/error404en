@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+secure%2C+production-grade+backend+systems;FastAPI+%2B+React+%2B+Clean+Architecture;Exploring+multimodal+AI+%26+real-time+systems;Open+to+SDE+%2F+Backend+Internships+%26+Full-Time+Roles" />
 
 [![Email](https://img.shields.io/badge/Email-shreyanshbhadani%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyanshbhadani@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyansh-bhadani-77bb28329/)
 [![GitHub](https://img.shields.io/badge/GitHub-error404en-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/error404en)
 
 </div>
