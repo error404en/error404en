@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24&text=Shreyansh%20Bhadani&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=AI%20Engineer%20%7C%20Generative%20AI%20%26%20LLM%20Systems&descAlignY=58&descSize=16" width="100%"/>
+<img src="./assets/banner.svg" alt="Shreyansh Bhadani — AI Engineer | Generative AI & LLM Systems" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+production-grade+RAG+pipelines+%26+LLM+systems;LangChain+%2B+Vector+DBs+%2B+FastAPI;Exploring+multimodal+AI+%26+real-time+systems;Open+to+AI+Engineer+%2F+GenAI+Internships+%26+Full-Time+Roles" />
 
@@ -21,7 +21,7 @@ Role target      AI Engineer / Generative AI Engineer Intern & Full-Time (also B
 Education        B.Tech ECE (CS Specialization), JIIT Noida — 2023–2027
 Primary stack    Python, LangChain, FastAPI, TypeScript, React, Next.js
 Core strengths   RAG pipeline design, LLM integration, REST API design, secure system architecture
-Recently         Completed a Generative AI internship building a RAG knowledge assistant (Ultimate Flexipack Ltd.)
+Recently         Completed a Generative AI internship building a RAG knowledge assistant 
 Open to          AI Engineer / GenAI internships, backend & full-stack roles, off-campus opportunities
 Location         Noida, Uttar Pradesh, India
 ```
@@ -36,25 +36,26 @@ Location         Noida, Uttar Pradesh, India
 | System Security | Hardened systems: AES-256-GCM encryption, HMAC integrity checks, path-traversal defense |
 | Career Growth | A portfolio of deployed, documented, verifiable projects for off-campus hiring |
 
-## Experience
-
-**Generative AI Intern — Ultimate Flexipack Ltd.** · Jun 2026 – Jul 2026
-Built a Retrieval-Augmented Generation (RAG) system indexing 300+ technical documents and 20K+ document chunks, enabling semantic search across SOPs, datasheets, and manufacturing manuals. Built 15+ REST APIs (FastAPI) for ingestion, retrieval, authentication, and AI-powered Q&A, achieving sub-150ms vector search latency and 90%+ relevant-answer accuracy in internal testing.
-
 ## Featured Work
 
 **LitLens AI — Enterprise RAG Platform for Academic Research**
-Enterprise-grade Retrieval-Augmented Generation pipeline (LangChain, Qdrant Cloud) enabling semantic search across 500+ academic PDFs using 35K+ vector embeddings, with inline citations. A hybrid RetrievalCache + PromptCache layer cuts repeat-query latency to under 50ms, with Inngest automating background parsing/embedding jobs. Frontend on Next.js 15 / React 19, backend secured with Supabase, Clerk JWT auth, and Row-Level Security, supporting 100+ concurrent users.
+- RAG pipeline (LangChain, Qdrant Cloud) — semantic search across 500+ academic PDFs, 35K+ vector embeddings, inline citations
+- Hybrid RetrievalCache + PromptCache cuts repeat-query latency to under 50ms; Inngest automates background parsing/embedding
+- Next.js 15 / React 19 frontend; Supabase + Clerk JWT + Row-Level Security backend supporting 100+ concurrent users
 **Stack:** Next.js 15, React 19, LangChain, Qdrant, OpenAI GPT-4o, Supabase, Clerk
 [Repository](https://github.com/error404en/LitLensAI)
 
 **EchoSight — Multimodal AI Vision Assistant for the Visually Impaired**
-Real-time accessibility app fusing Groq Whisper (speech-to-text), Llama 4 Scout Vision, and Edge-TTS over WebSockets, delivering conversational scene understanding in under 2 seconds end-to-end. Runs an on-device YOLOv8n (float16) model achieving 18–25 FPS offline hazard detection across 80 object categories, plus local face recognition for 50+ registered identities. A Flutter–Python pipeline with GPS navigation and OCR cuts mode-switch latency to under 200ms.
+- Real-time accessibility app fusing Groq Whisper (STT), Llama 4 Scout Vision, and Edge-TTS over WebSockets — under 2s end-to-end response
+- On-device YOLOv8n (float16) — 18-25 FPS offline hazard detection across 80 object categories
+- Local face recognition for 50+ registered identities; Flutter-Python pipeline with GPS + OCR, under 200ms mode-switch latency
 **Stack:** Flutter, Python, YOLOv8, Groq Whisper, Llama 4 Scout, Edge-TTS, WebSockets
 [Repository](https://github.com/error404en/echosight2.0)
 
 **Secure File Storage & Sharing System**
-A secure file storage and sharing web app (FastAPI backend, React/Vite frontend) supporting encrypted upload, download, sharing, and deletion across 1,000+ encrypted test files. Implements AES-256-GCM authenticated encryption and HMAC-SHA256 integrity verification, achieving 99.9% successful operations with zero data-loss incidents and no path-traversal vulnerabilities.
+- Encrypted file storage/sharing (FastAPI backend, React/Vite frontend) across 1,000+ encrypted test files
+- AES-256-GCM authenticated encryption + HMAC-SHA256 integrity verification — 99.9% success rate, zero data-loss incidents
+- Atomic file writes and filename sanitization eliminate corruption and path-traversal vulnerabilities
 **Stack:** FastAPI, React, Vite, AES-256-GCM, HMAC-SHA256
 [Repository](https://github.com/error404en/secure_file)
 
@@ -124,16 +125,6 @@ A secure file storage and sharing web app (FastAPI backend, React/Vite frontend)
 Always open to a conversation about Generative AI, backend engineering, or off-campus opportunities — reach out anytime.
 </div>
 
-
-## What I Like Building
-
-```
-Generative AI systems     RAG pipelines, semantic search, LLM-backed assistants — not just demos
-Secure backend systems    encryption, integrity checks, hardened file/data handling
-Real-time pipelines       WebSocket-driven, low-latency, multimodal AI integrations
-Full-stack products       FastAPI/Node APIs paired with React/Next.js frontends
-Clean, documented code    readable architecture over clever shortcuts
-```
 
 ## Let's Connect
 
